@@ -1,10 +1,5 @@
-- title: Wir sind unterwegs
-subtitle: Probiere in deiner Stadt
-modal-id: 1
-date: 2018-07-15
-thumbnail: roundicons-thumbnail.png
-- title: Wir sind unterwegs
-subtitle: Probiere in deiner Stadt
-modal-id: 1
-date: 2018-07-15
-thumbnail: roundicons-thumbnail.png
+-   title: Wir sind unterwegs
+    subtitle: Probiere in deiner Stadt
+    modal-id: 1
+    date: 2018-07-15
+    thumbnail: roundicons-thumbnail.png
