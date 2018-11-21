@@ -63,3 +63,9 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+contentful:
+  spaces:
+    - template:                              # Jekyll _data folder identifier - Required
+        space: 4migk5ff6pm5                 # Required
+        access_token: 0eecedfa96fc7057546b66da5eb59c93ce42ad4563f2b874196db8ef4e27c7b8          # Required

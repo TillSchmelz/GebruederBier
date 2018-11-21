@@ -1,0 +1,15 @@
+---
+product:
+- sys:
+    id: 37qfEL12liICUSuOqASy6G
+    created_at: !ruby/object:DateTime 2018-10-17 13:42:36.895000000 Z
+    updated_at: !ruby/object:DateTime 2018-10-24 16:31:28.490000000 Z
+    content_type_id: product
+    revision: 2
+  product_name: Jungbusch Ale
+  product_price: 4.5
+  product_description: Das einzige Ale, original aus dem stinkingen Wasser des Jungbusch
+    gebraut.
+  product_origin:
+    lat: 49.495146964353616
+    lon: 8.461376950151816
